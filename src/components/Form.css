@@ -1,0 +1,21 @@
+.Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: rgb(60, 253, 221); */
+    color: rgb(9, 36, 60);
+    width: 800px;
+}
+.Container label{
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Container input{
+    width: 96px;
+}
+.show{
+    display: flex;
+    justify-content: space-around;
+}
